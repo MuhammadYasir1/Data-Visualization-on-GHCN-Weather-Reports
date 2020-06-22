@@ -18,4 +18,4 @@
  **Tools Used for data cleaning and plotting : Python's Modules including _Pandas_, _Matplotlib_, and _Numpy_**
  
  ### Results:
- ![Screenshot](screenshot.png)
+ ![Image of Yaktocat](https://github.com/myasir22/Data-Visualization-on-GHCN-Weather-Reports/blob/master/Screenshot%202020-06-22%20at%2012.53.06%20AM.png)
